@@ -1,5 +1,7 @@
 # Plykite для Windows
 
+**Полное руководство пользователя:** [на русском](manual/user-manual.ru.md) · [in English](manual/user-manual.en.md)
+
 *English below.*
 
 Plykite делит интернет компьютера между несколькими подключениями сразу: кабель, Wi‑Fi, телефон в режиме модема. Если одно подключение пропадает, Plykite переводит трафик на остальные.
@@ -69,6 +71,8 @@ Plykite делит интернет компьютера между нескол
 ---
 
 # Plykite for Windows
+
+**Full user manual:** [in English](manual/user-manual.en.md) · [на русском](manual/user-manual.ru.md)
 
 Plykite splits the computer's internet traffic over several connections at once: cable, Wi‑Fi, a phone as a modem. When one connection drops, Plykite moves the traffic to the others.
 
